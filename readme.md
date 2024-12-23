@@ -103,8 +103,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Powered by Power BI for interactive analytics.
 
 ## Disclaimer:																														
-"1. Last rank statement doesnot reflect the candidates admitted in special reservation categories like PH, NCC, Sports and Games, Children of Armed Personnel (CAP) seats,  & Minority colleges.
-2. Every care has been taken to present accurate information. The Ranks shown are at the end of Web Counseling process and does not indicate the dropouts or spot admissions.
-3. The statement shall be used only for information to assess the mode of opting by candidates and shall in no way reflect the rank upto which seat can be allotted in the present academic year. 4.Girls are also eligible for Boys seats.
-5.The Convener is not responsible for Print Errors.
-6.While exercing options  candidates are advised to enter more number of options to avoid the disappointment of not securing a seat"																		
+- "1. Last rank statement doesnot reflect the candidates admitted in special reservation categories like PH, NCC, Sports and Games, Children of Armed Personnel (CAP) seats,  & Minority colleges.
+- 2. Every care has been taken to present accurate information. The Ranks shown are at the end of Web Counseling process and does not indicate the dropouts or spot admissions.
+- 3. The statement shall be used only for information to assess the mode of opting by candidates and shall in no way reflect the rank upto which seat can be allotted in the present academic year. 
+- 4.Girls are also eligible for Boys seats.
+- 5.The Convener is not responsible for Print Errors.
+- 6.While exercing options  candidates are advised to enter more number of options to avoid the disappointment of not securing a seat"																		
